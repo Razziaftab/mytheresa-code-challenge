@@ -19,11 +19,11 @@ Please check the official laravel installation guide for server requirements bef
 
 Clone the repository
 
-    git clone git@github.com:RazziTechverx/laravel-auth-api.git
+    git clone https://github.com/Razziaftab/mytheresa-code-challenge.git
 
 Switch to the repo folder
 
-    cd laravel-auth-api
+    cd mytheresa-code-challenge
 
 Install all the dependencies using composer
 

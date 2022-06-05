@@ -53,4 +53,6 @@ Start the local development server
 
     php -S localhost:8000 -t public
 
-You can now access the server at http://127.0.0.1:8000
+Now you can access the end point for the list of products
+
+    http://127.0.0.1:8000/api/products
